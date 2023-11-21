@@ -1,8 +1,8 @@
 from collections import defaultdict
 
 ## Program laget for å hente ut datoer fra .TSV filen med svar på arrangementer for IFI-navet
-## Legg til semester.py og .TSV filen i samme mappe, og gi filen navn 'skjema.tsv', eller endre variabelnavnet
-## Laget av ÅKJ, bedriftskontakt Høsten 2023.
+## Legg til scheduler.py og .TSV filen i samme mappe, og gi filen navn 'skjema.tsv', eller endre variabelnavnet
+
 
 
 def main(csv):
